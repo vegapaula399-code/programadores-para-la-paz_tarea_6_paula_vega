@@ -1,0 +1,4 @@
+{
+  "tipo": "Recogida de desechos",
+  "descripcion": "Los residentes informan retrasos en la recolección de basura, generando acumulación de desechos en la zona."
+}

@@ -1,0 +1,1 @@
+La respuesta del servidor confirma que la solicitud fue recibida y procesada correctamente. Los datos enviados fueron almacenados o gestionados por la aplicación y el servidor devolvió una respuesta en formato JSON con la información correspondiente. Esto permite verificar que la comunicación entre el cliente y el servidor funciona de manera adecuada
